@@ -1,0 +1,31 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "simple boilerplate for webproject",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loydle/boilerplate-nodejs-express.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "html5",
+    "nodejs",
+    "ejs",
+    "express"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loydle/boilerplate-nodejs-express/issues"
+  },
+  "homepage": "https://github.com/loydle/boilerplate-nodejs-express#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  }
+}
